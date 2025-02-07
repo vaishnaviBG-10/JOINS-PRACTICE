@@ -28,3 +28,12 @@ SQL Joins have countless real-world applications. In **human resources**, they h
 
 Understanding SQL Joins in **MySQL** is crucial for anyone working with databases, including **data analysts, software developers, and database administrators**. These queries help make sense of large datasets, enabling businesses to make data-driven decisions. Whether it’s tracking sales, managing employees, or analyzing user behavior, SQL Joins play a vital role in connecting and organizing information effectively. By mastering these joins, professionals can unlock valuable insights, improve business processes, and make databases work more efficiently.  
 
+*OUTPUT* : 1.![Image](https://github.com/user-attachments/assets/5a533ad7-6064-4e1c-8715-64364fbab8c3)
+
+           2.![Image](https://github.com/user-attachments/assets/af526715-1d57-42a9-b8b6-d54bc12cc96e)
+
+          3.![Image](https://github.com/user-attachments/assets/0b56d8dd-bf33-465b-8db2-3e63975e57be)
+
+          4.![Image](https://github.com/user-attachments/assets/06f39794-9fb0-49b0-b0e8-cef1f3157271)
+
+          5.![Image](https://github.com/user-attachments/assets/86c0a72d-6b7a-4a2e-b7c1-a585b6f8a1cd)
