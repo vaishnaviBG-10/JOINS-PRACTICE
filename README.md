@@ -12,7 +12,7 @@
 
 *MENTOR*   : NEELA SANTHOSH KUMAR
 
-**Here's your revised description, **specifically mentioning MySQL as the platform used**:  
+
 
 ---
 
